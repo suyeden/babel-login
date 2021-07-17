@@ -2,6 +2,8 @@
 
 # babel-login
 
+[![GitHub license](<https://img.shields.io/github/license/suyeden/babel-login>)](<https://github.com/suyeden/babel-login/blob/master/LICENSE>)  
+
 
 ## 概要
 

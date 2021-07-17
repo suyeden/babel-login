@@ -6,6 +6,8 @@
 
 * babel-login
 
+  [![GitHub license](https://img.shields.io/github/license/suyeden/babel-login)](https://github.com/suyeden/babel-login/blob/master/LICENSE)
+
 ** 概要
    1989年に公開された押井守監督のアニメ映画「機動警察パトレイバー the Movie」に出てくる、HOS（Hyper Operating System, 篠原重工の帆場暎一が開発したレイバー用OS）のマスターコピーの起動画面を模したパスワード認証プログラム（ログイン画面）です。
    冗談が分かる人だけ楽しんでください。分からない人はぜひネットで検索。
