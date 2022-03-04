@@ -14,7 +14,7 @@
 あくまで HOS 「風」なので、一部アレンジを加えています。  
 原作同様、ログインに失敗すると画面に「BABEL」という文字が次々と表示され、延々と画面上を流れていきます。  
 
-[ここから実際に動かすことができます。](https://suyeden.github.io/softwares/junk/babel-login/babel.html)  
+[ここから実際に動かすことができます。](https://suyeden.github.io/softwares/hobby/babel-login/babel.html)  
 パスワードは「1999」です。途中で入力ダイアログが表示されるので、そこに入力してください。  
 ログインに成功すると、すえーでんのウェブサイトへと飛びます。  
 
